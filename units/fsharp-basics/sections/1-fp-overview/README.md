@@ -10,3 +10,12 @@ It is always hard to distill what something is really all about, but that is exa
 - Declarative 
 
 There is much more functional programming then this, but these basic ideas guide us and help us to right simple code that is easy to test.
+
+## Next Steps
+When you are ready to jump in here is what we have for this lesson:
+
+- Read `fp-overview`
+- Solve each exercise in `fp-overview.exercises`
+- Review & Reflect on `fp-overview.solutions`
+
+As always questions and comments are welcome in the discussion.
